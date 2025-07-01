@@ -1,0 +1,9 @@
+{
+  "id": "RefBit",
+  "name": "RefBit",
+  "version": "1.04",
+  "description": "Customized Soccer Referee App for rareBit Flags integration and match timers",
+  "icon": "refbit.png",
+  "src": "ref.app.js",
+  "supports": ["BANGLEJS2"]
+}
